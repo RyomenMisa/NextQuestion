@@ -1,0 +1,38 @@
+{
+  "vault_path": "/path/to/obsidian/vault",
+  "store_root": "RAG_Knowledge_Base",
+  "db_path": "nextquestion.db",
+  "cache_namespace": "nq-1.0",
+  "chunk_max_chars": 9000,
+  "chunk_min_chars": 400,
+  "api_key": "PASTE_YOUR_API_KEY_HERE",
+  "base_url": "https://api.openai.com/v1",
+  "model": "gpt-4o-mini",
+  "folders": {
+    "excerpts": "Notes",
+    "sections": "Sections",
+    "entities": "Entities"
+  },
+  "labels": {
+    "brief": "Brief",
+    "answers": "Answers",
+    "keywords": "Keywords",
+    "full": "Full source text",
+    "links": "Links",
+    "chapter": "Chapter",
+    "prev": "Previous",
+    "next": "Next",
+    "topics": "Related topics & entities"
+  },
+  "hub_labels": {
+    "section": "Excerpts in this section",
+    "entity": "Entity covered in",
+    "entity_tail": "excerpts, possibly across different books"
+  },
+  "prompts": {
+    "enrich": "",
+    "hyde": "",
+    "answer": ""
+  },
+  "entity_patterns": []
+}

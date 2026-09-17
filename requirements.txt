@@ -1,0 +1,8 @@
+# PDF text extraction and table-of-contents parsing
+PyMuPDF>=1.23.0
+# HTTP client for OpenAI-compatible LLM APIs
+requests>=2.28.0
+# Config and JSON schema validation (v2 API required!)
+pydantic>=2.0.0
+# YAML frontmatter for Obsidian notes
+PyYAML>=6.0

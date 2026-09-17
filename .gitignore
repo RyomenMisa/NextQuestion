@@ -1,0 +1,24 @@
+# Секреты и локальный конфиг — никогда не коммитим
+config.json
+
+# Базы данных и кэши (твои данные, не код)
+*.db
+*.db-journal
+*.sqlite
+*.sqlite3
+
+# Служебный мусор Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Мусор операционок и редакторов
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Логи
+*.log
