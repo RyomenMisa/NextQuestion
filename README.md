@@ -424,3 +424,11 @@ This table maps each message to its cause and its fix.
 - `⚠️` — warning; the stage continued in degraded mode.
 - `✅ / 💰 /  / 🕸️` — progress and statistics, all good.
 
+## Legal note
+NextQuestion is a data-processing tool. This repository contains **no textbook text**:
+no PDFs, no full-text chunks, no database dumps. Screenshots show auto-generated
+summaries, keywords and link structure produced from the user's own lawful copies
+of source books. All rights to source textbooks (including Robbins & Cotran,
+*Pathologic Basis of Disease*) belong to their respective publishers.
+You are responsible for using only sources you lawfully own and for keeping
+generated full-text notes private (personal-study use).
